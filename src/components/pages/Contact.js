@@ -1,21 +1,23 @@
-import React from 'react';
+import React from "react";
 
 export default function Contact() {
   return (
     <div>
-      <h1>Contact Page</h1>
+      <h1>Contact</h1>
       <p>
-        Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-        molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-        magna a ultrices. Aenean pellentesque placerat lacus imperdiet
-        efficitur. In felis nisl, luctus non ante euismod, tincidunt bibendum
-        mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-        posuere, eget tristique dui dapibus. Maecenas fermentum elementum
-        faucibus. Quisque nec metus vestibulum, egestas massa eu, sollicitudin
-        ipsum. Nulla facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh
-        dictum ullamcorper. Class aptent taciti sociosqu ad litora torquent per
-        conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
-        rhoncus. Etiam vel condimentum magna, quis tempor nulla.
+        Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
+        Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
+        dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
+        sodales volutpat et, hendrerit ut dolor. Suspendisse porta dictum nunc,
+        sed pretium risus rutrum eget. Nam consequat, ligula in faucibus
+        vestibulum, nisi justo laoreet risus, luctus luctus mi lacus sit amet
+        libero. Class aptent taciti sociosqu ad litora torquent per conubia
+        nostra, per inceptos himenaeos. Mauris pretium condimentum tellus eget
+        lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+        Donec placerat accumsan mi, ut congue neque placerat eu. Donec nec ipsum
+        in velit pellentesque vehicula sit amet at augue. Maecenas aliquam
+        bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
+        est ligula suscipit velit, sed bibendum turpis dui in sapien.
       </p>
     </div>
   );
