@@ -1,21 +1,27 @@
 import React from "react";
+import "../../styles/Section.css";
 
 export default function Aboutme() {
   return (
     <div>
-      <h1>About Me</h1>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
-      </p>
+      <div className="body">
+        <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-Black">
+          About Me
+        </h1>
+        <p>
+          I am a highly competent IT professional with a proven track record in
+          designing websites, networking and managing databases. I have strong
+          technical skills as well as excellent interpersonal skills, enabling
+          me to interact with a wide range of clients. I am eager to be
+          challenged in order to grow and further improve my IT skills. My
+          greatest passion is in life is using my technical know-how to benefit
+          other people and organisations. Diligent and ambitious software
+          developer with 4+ years of experience in application development and
+          project management. I have built many innovative applications for X
+          and Y companies in the past that significantly increased clients
+          satisfaction. I am patient and good at time management.
+        </p>
+      </div>
     </div>
   );
 }

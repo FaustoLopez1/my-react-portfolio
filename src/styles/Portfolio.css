@@ -1,0 +1,53 @@
+.item-wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    
+}
+
+.portfolio-item {
+    align-items: flex-start;
+    margin: 1em;
+    width: 10em;
+    height: 10em;
+    border-radius: 3px;
+    display: flex;
+
+}
+
+.portfolio-item.img1 {
+    background-color: aqua;
+    background-image: url(https://camo.githubusercontent.com/70bb1eef4e1f99afbdf4894fb55225ce0b22908a42d50454dcc094b1bf01daec/68747470733a2f2f692e67697068792e636f6d2f6d656469612f6161737149384f34454b664347564b49524d2f67697068792e77656270);
+    background-size:cover;
+}
+
+.portfolio-item.img2 {
+    background-color: blue;
+    background-image: url(https://camo.githubusercontent.com/004ad481750df63a14113b39665f153408bdfde88a03eae0a071527988a5fef8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f50746b71395741475731376438427059574d2f67697068792e676966);
+    background-size:cover;
+}
+
+.portfolio-item.img3 {
+    background-color: blueviolet;
+    background-image: url(https://camo.githubusercontent.com/576961c7ecbdfc3fa9d88d29eaa3c74e65d861c6d93e3e46b3b23617a90121b9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f346a5974664930484e673941554f504b556b2f67697068792e676966);
+    background-size:cover;
+}
+
+.portfolio-item.img4 {
+    background-color: chartreuse;
+    background-image: url(https://raw.githubusercontent.com/FaustoLopez1/Scheduler/main/Assets/05-third-party-apis-homework-demo.gif);
+    background-size:cover;
+}
+
+.portfolio-item.img5 {
+    background-color: black;
+    background-image: url(https://raw.githubusercontent.com/FaustoLopez1/ecommerce-back-end/main/Assets/13-orm-homework-demo-01.gif);
+    background-size:cover;
+}
+
+.github-icon img {
+    height: 1.825em;
+    width: 1.825em;
+}

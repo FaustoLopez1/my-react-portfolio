@@ -1,0 +1,17 @@
+
+.navbar a {
+  color: white;
+  font-size: 1.3rem;
+  text-decoration: none;
+  margin: 5px;
+  line-height: 3;
+}
+
+ .flex-between {
+  background-image: url(https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif);
+  background-size: cover;
+   display: flex;
+   justify-content: space-between;
+   color: white;
+   font-size: 40px;
+ }

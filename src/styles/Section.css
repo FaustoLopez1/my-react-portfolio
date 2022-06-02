@@ -1,0 +1,17 @@
+.section {
+  background: #f3e5f5;
+  padding: 20px;
+}
+
+.section h2 {
+  text-align: center;
+}
+
+.body {
+  background-color: rgb(192, 168, 188);
+}
+
+html {
+  height: 100vh;
+  background-color: rgb(192, 168, 188);
+}
